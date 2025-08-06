@@ -1,0 +1,3 @@
+[submodule "openspace_ctf-main/lib/forge-std"]
+	path = openspace_ctf-main/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
